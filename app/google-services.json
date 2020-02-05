@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "853507347733",
+    "firebase_url": "https://mykotlinfirebase-b5e93.firebaseio.com",
+    "project_id": "mykotlinfirebase-b5e93",
+    "storage_bucket": "mykotlinfirebase-b5e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853507347733:android:c9d0379101b14e207fc51c",
+        "android_client_info": {
+          "package_name": "com.example.imageuploadandretrivefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853507347733-bncrhh97206a4co953760mqbecc5f4f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageuploadandretrivefirebase",
+            "certificate_hash": "bff06b9ecc7e0c3e71bf9ecb98fa9c630af4f105"
+          }
+        },
+        {
+          "client_id": "853507347733-0jve7vn1n4idemgkgj347u62f7rrm62u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOB-HqWIyOyo1JikRU7purmFivrUDy2jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853507347733-0jve7vn1n4idemgkgj347u62f7rrm62u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853507347733:android:e24f66e82e172d467fc51c",
+        "android_client_info": {
+          "package_name": "com.example.shakil.androidimageuploadtofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853507347733-l6skqhbermhb9l8fh7rpb48jqfb40pr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakil.androidimageuploadtofirebase",
+            "certificate_hash": "bff06b9ecc7e0c3e71bf9ecb98fa9c630af4f105"
+          }
+        },
+        {
+          "client_id": "853507347733-0jve7vn1n4idemgkgj347u62f7rrm62u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOB-HqWIyOyo1JikRU7purmFivrUDy2jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853507347733-0jve7vn1n4idemgkgj347u62f7rrm62u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853507347733:android:00bc60102ad6d4fa7fc51c",
+        "android_client_info": {
+          "package_name": "jdulal.com.np.androiduploadretrieveimagesusingfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853507347733-779l8aid4r98orbhu01f3h47n9c8ouh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jdulal.com.np.androiduploadretrieveimagesusingfirebasestorage",
+            "certificate_hash": "bff06b9ecc7e0c3e71bf9ecb98fa9c630af4f105"
+          }
+        },
+        {
+          "client_id": "853507347733-0jve7vn1n4idemgkgj347u62f7rrm62u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOB-HqWIyOyo1JikRU7purmFivrUDy2jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853507347733-0jve7vn1n4idemgkgj347u62f7rrm62u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
